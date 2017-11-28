@@ -7,7 +7,7 @@
   * Remove bad url param in $.ajax, overwritten by $.extend
   * Properly handle nested cancel submit button
   * Fix indent
-  * Refactor attributeRules and dataRules to share noramlizer
+  * Refactor attributeRules and dataRules to share normalizer
   * dataRules method to convert value to number for number inputs
   * Update url method to allow for protocol-relative URLs
   * Remove deprecated $.format placeholder
